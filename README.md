@@ -1,4 +1,4 @@
 # guide
 Гайды от Мишани
 
-<a>link</a>
+https://github.com/MikhailLebedev/guide/wiki
